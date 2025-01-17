@@ -143,7 +143,7 @@ def delete_all_videos():
 
 @app.route('/')
 def hello():
-    return "Hello, Flask on AWS EC2!"
+    return "Hello, Flask on Vercel Test!"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
