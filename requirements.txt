@@ -1,0 +1,14 @@
+Flask
+Werkzeug
+python-dotenv
+requests
+pymongo
+Flask-Bcrypt
+email-validator
+pytz
+CORS
+flask_cors
+firebase_admin
+requests
+Flask-Mail
+email-validator
